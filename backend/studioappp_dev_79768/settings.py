@@ -68,7 +68,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.sites', "data"
+    'django.contrib.sites', "data", "ksdfsdkgfhdsk"
 ]
 LOCAL_APPS = [
     'home',
